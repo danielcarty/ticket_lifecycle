@@ -11,7 +11,7 @@ This tutorial shows or manifests the ticket lifecycles of the open-source help d
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Manifestation of Ticket Lifecycles](https://www.youtube.com)
+- ### [YouTube: Manifestation of Ticket Lifecycles](https://youtu.be/Gg7jhOacl3E)
 
 <h2>Environments and Technologies Used</h2>
 
